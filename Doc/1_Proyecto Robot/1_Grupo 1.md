@@ -1,6 +1,6 @@
 <div style="text-align: justify;">
 
-# 👨🏻‍🎓Grupo Ejemplo:
+# 👨🏻‍🎓Grupo Ejemplo 1:
 
 </div>
 
@@ -10,13 +10,9 @@ Describe el grupo: quienes lo conforman ....
 
 .....
 
-
-
 ## Diseño detalle
 
 .........
-
-
 
 ## Pruebas
 
