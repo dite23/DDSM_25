@@ -8,7 +8,7 @@ def generate_index(root_dir, output_file):
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write("Diseño y Desarrollo de un Sistema Mecánico (DDSM_25)\n")
         file.write("="*38 + "\n\n")
-        file.write("Aquí se recogerá toda la documentación sobre la asignatura "Diseño y Desarrollo de un Sistema Mecánico" del curso 2024/25.\n\n")
+        file.write("Aquí se recogerá toda la documentación sobre la asignatura 'Diseño y Desarrollo de un Sistema Mecánico' del curso 2024/25.\n\n")
         
         for root, dirs, files in os.walk(root_dir):
             # Only consider immediate subdirectories of the root directory
